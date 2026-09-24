@@ -1,4 +1,4 @@
-👤 Sobre
+# 👤 Sobre
 Graduando em Engenharia de Software pela Universidade de Brasília (UnB). Desenvolvedor focado em back-end e sistemas, estudando Java, Spring Boot, C++ e C#. Tenho interesse ativo em Arquitetura de Software, Redes de Computadores, Segurança da Informação, Desenvolvimento de Jogos e Otimização de algoritmos.
 
 # 💻 Stack
